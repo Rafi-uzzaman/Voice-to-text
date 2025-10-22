@@ -4,7 +4,7 @@ A professional voice-to-text converter built with Streamlit that provides real-t
 
 ## Features
 
-🎤 **Real-time Speech Recognition** - Convert speech to text instantly
+🎙️ **Real-time Speech Recognition** - Convert speech to text instantly
 📝 **Live Text Editing** - Edit transcribed text directly in the interface  
 📊 **Character & Word Count** - Real-time statistics display
 📋 **Copy to Clipboard** - One-click text copying
@@ -106,7 +106,7 @@ The app uses these default settings:
 
 ## Usage
 
-1. **Start Recording:** Click the "🎤 Start" button
+1. **Start Recording:** Click the "🎙️ Start" button
 2. **Speak Clearly:** Talk into your microphone
 3. **Stop Recording:** Click the "⏹️ Stop" button
 4. **Edit Text:** Modify the transcribed text if needed
@@ -197,4 +197,4 @@ Contributions welcome! Please:
 
 ---
 
-**Enjoy using the Voice to Text Converter! 🎤✨**
+**Enjoy using the Voice to Text Converter! 🎙️✨**
